@@ -353,7 +353,7 @@ works
 /*-------------------------*/
 .bl_card_imgWrapper {
   position: relative;
-  padding-top: 56.25%;
+  padding-top: 50%;
   overflow: hidden;
 }
 
